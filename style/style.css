@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,400;1,700&display=swap');
+.bgimage{
+	/* background-color:black; */
+	padding:70px;
+	border:50px;
+	
+}
+.text{
+	color:white;
+	font-family: 'Noto Serif', serif;
+}
+.water{
+	border-radius: 50%;
+	width:90px;
+	
+}
